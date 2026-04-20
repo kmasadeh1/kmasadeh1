@@ -43,13 +43,6 @@
 <br/>
 <br/>
 
-<!-- GitHub Trophies -->
-<a href="https://github.com/kmasadeh1">
-  <img src="https://github-profile-trophy.vercel.app/?username=kmasadeh1&theme=dracula&no-frame=true&column=7" alt="GitHub Trophies" />
-</a>
-
-<br/>
-<br/>
 
 ## 👨‍💻 About Me
 ---
@@ -67,15 +60,8 @@ Cybersecurity Professional and JUST student bridging the gap between Governance,
 
 <br/>
 
-## 🏅 Certification Gallery & TryHackMe
+## 🏅 Certification Gallery
 ---
-
-<a href="https://tryhackme.com/p/kmasadeh1">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/kmasadeh1.png" alt="TryHackMe" />
-</a>
-
-<br/>
-<br/>
 
 <a href="#">
   <img src="https://img.shields.io/badge/Google-Cybersecurity_Professional_Certificate-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Cybersecurity Certificate" />
