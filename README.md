@@ -7,7 +7,7 @@
 <br/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=4th+Year+Cybersecurity+Student+@+JUST;Aspiring+AI+%26+Cloud+Security+Specialist;Offensive+Security+Practitioner+%7C+CTF+Player;GRC+%26+JNCSF+Framework+Enthusiast;Secure+Full-Stack+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Cybersecurity+Student+%40+JUST;Offensive+Security+Practitioner;GRC+%26+JNCSF+Specialist;Full-Stack+Security+Developer" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -29,40 +29,33 @@
 ## 👨‍💻 About Me
 ---
 
-Final-year Cybersecurity and Software Engineering student at Jordan University of Science and Technology. Currently focusing on bridging the gap between academic theory and practical offensive security. I am actively executing an intensive 60-day "Zero to Hero" certification sprint to solidify my technical expertise in identifying vulnerabilities and developing robust defensive measures.
+Cybersecurity Professional and JUST student bridging the gap between Governance, Risk, and Compliance (GRC) and active Threat Management. 
 
-## 🛡️ Core Interests
+## ⚔️ The Arsenal
 ---
 
-- **Offensive Security:** Conducting practical ethical hacking and continuously engaging in CTF competitions.
-- **AI & Cloud Security:** Researching and implementing advanced defense mechanisms for modern cloud infrastructures and artificial intelligence systems.
-- **GRC Integration:** Specialized in designing workflows and management systems conforming to the JNCSF.
-
-## 🚀 Major Projects
----
-
-- **FortiGRC:** A management system designed for the Jordanian National Cybersecurity Framework (JNCSF) to manage regulatory controls.
-- **Viola Academy:** A secure, multi-role school management portal (Web/Mobile) built with React Native and Node.js.
-- **Imposter Game:** A social deduction game project focusing on functional logic and frontend design.
-
-## 🛠️ Tech Stack & Tools
----
-
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=linux,kali,docker,python,bash,git,nginx" alt="Tech Stack Icons" />
-</a>
+| 🛡️ Security | 💻 Development | 🧠 Emerging |
+| :--- | :--- | :--- |
+| 🐉 Kali Linux<br>🦈 Wireshark<br>👁️ Nmap<br>🎯 Penetration Testing<br>📋 GRC (Advanced)<br>🏛️ JNCSF (Advanced) | ⚛️ React.js<br>🟢 Node.js<br>🐘 PostgreSQL<br>⚡ Supabase<br>📦 Git | 🤖 AI Security<br>☁️ Cloud Security Operations |
 
 <br/>
-<br/>
 
-**Security Suite:** Metasploit, Nmap, Burp Suite, OWASP ZAP, Wireshark
-
-## 📚 Learning Path
+## 🚀 Project Showroom
 ---
 
-- **eJPT (eLearnSecurity Junior Penetration Tester):** In progress
-- **CompTIA Security+:** Active preparation
-- **Web Application Penetration Testing:** Continuous practical application
+- **FortiGRC:** Full-stack GRC system mapped to JNCSF; features 2FA and SQLi/XSS mitigation.
+- **Syncor Tech:** Security architecture for a multi-tenant SaaS platform; hardened Node.js APIs.
+- **Malware Analysis:** Digital forensics, disk imaging, and custom YARA rule deployment.
+- **TryHackMe & CTF:** Exploiting authentication flaws and securing Kali environments.
+
+## 🎓 Education & Certifications
+---
+
+- **B.S. in Cybersecurity & Software Engineering** — Jordan University of Science and Technology (JUST)
+- **Google Cybersecurity Professional Certificate**
+- **CCNA: Introduction to Networks**
+
+<br/>
 
 ## 📊 GitHub Stats
 ---
@@ -72,6 +65,9 @@ Final-year Cybersecurity and Software Engineering student at Jordan University o
 </a>
 <a href="https://github.com/kmasadeh1">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kmasadeh1&layout=compact&theme=nord&hide_border=true" alt="Top Languages" />
+</a>
+<a href="https://github.com/kmasadeh1">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kmasadeh1&theme=nord&hide_border=true" alt="GitHub Streak" />
 </a>
 
 <br/>
