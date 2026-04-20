@@ -31,6 +31,9 @@
 <a href="mailto:masadehkareem29@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
 </a>
+<a href="#">
+  <img src="https://img.shields.io/badge/Discord-Active-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Live Status" />
+</a>
 
 <br/>
 <br/>
@@ -56,12 +59,26 @@
 
 Cybersecurity Professional and JUST student applying offensive security tactics and GRC frameworks to secure robust IT infrastructures, bridging the gap between academic theory and active Threat Management.
 
-> 🚀 **Current Sprint:** Currently executing a 60-day sprint for **eJPT** and **Web App Pentesting**.
+<img src="https://img.shields.io/badge/Now_Learning-eJPT_&_Web_App_Pentesting-blue?style=flat-square" alt="Now Learning" />
 
 <br/>
 
 ## ⚔️ The Arsenal
 ---
+
+<div align="left">
+
+**GRC & JNCSF:** █ █ █ █ █ █ █ █ █ ░ 95%
+<br>
+**Kali Linux:** █ █ █ █ █ █ █ █ █ ░ 90%
+<br>
+**Network Security (CCNA):** █ █ █ █ █ █ █ ░ ░ ░ 75%
+<br>
+**PostgreSQL / Supabase:** █ █ █ █ █ █ █ ░ ░ ░ 70%
+
+</div>
+
+<br/>
 
 <div align="center">
   <a href="https://skillicons.dev">
@@ -95,33 +112,60 @@ Cybersecurity Professional and JUST student applying offensive security tactics 
 
 <div align="left">
 
-- **FortiGRC:** Full-stack GRC system mapped to JNCSF; features robust 2FA and SQLi/XSS mitigation strategies deployed natively.
+- **FortiGRC:** Full-stack GRC system mapped to JNCSF.
   <br>
-  <img src="https://img.shields.io/badge/Framework-JNCSF-blue?style=flat-square" alt="Framework JNCSF"> <img src="https://img.shields.io/badge/Status-v1.0--Beta-orange?style=flat-square" alt="Status v1.0-Beta"> <img src="https://img.shields.io/badge/Security-2FA--Enabled-brightgreen?style=flat-square" alt="Security 2FA-Enabled">
+  <img src="https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square" alt="Status Active"> <img src="https://img.shields.io/badge/Framework-JNCSF-blue?style=flat-square" alt="Framework JNCSF"> <img src="https://img.shields.io/badge/Security-2FA--Enabled-red?style=flat-square" alt="Security 2FA-Enabled">
 
 <br>
 
-- **Syncor Tech:** Security architecture implementation for a multi-tenant SaaS platform; leveraging hardened Node.js APIs to enforce strict access.
+- **Syncor Tech:** Security architecture implementation for a multi-tenant SaaS platform.
   <br>
-  <img src="https://img.shields.io/badge/Architecture-Multi--tenant-purple?style=flat-square" alt="Architecture Multi-tenant"> <img src="https://img.shields.io/badge/Security-Hardened-red?style=flat-square" alt="Security Hardened"> <img src="https://img.shields.io/badge/Backend-Secure_APIs-yellow?style=flat-square" alt="Backend Secure APIs">
-
-<br>
-
-- **Malware Forensics:** Detailed digital forensics operations featuring disk imaging and the active deployment of custom YARA rules for threat modeling.
+  <img src="https://img.shields.io/badge/Role-Security_Lead-purple?style=flat-square" alt="Role Security Lead"> <img src="https://img.shields.io/badge/Architecture-Multi--tenant-yellow?style=flat-square" alt="Architecture Multi-tenant"> <img src="https://img.shields.io/badge/Security-Hardened-red?style=flat-square" alt="Security Hardened">
 
 </div>
 
 <br/>
 
-## 🎓 Education
+## 🔬 Technical Spotlight: Malware Forensics
 ---
+
+<div align="left">
+
+```yara
+rule JUST_Malware_Detection {
+    meta:
+        description = "Detects malicious signatures based on CV forensics project"
+    strings:
+        $s1 = "malicious_payload"
+    condition:
+        $s1
+}
+```
+
+</div>
+
+<br/>
+
+## 🎓 Education & Academics
+---
+
+<img src="https://img.shields.io/badge/Academic_Institution-Jordan_University_of_Science_and_Technology_(JUST)-success?style=for-the-badge" alt="JUST Academic Badge"/>
+
+<br/>
 
 - **B.S. in Cybersecurity** — Jordan University of Science and Technology (JUST)
 
 <br/>
 
-## 📊 Real-Time Coding Stats & Activity
+## 📊 Interactive Analytics & GitHub Statistics
 ---
+
+<a href="https://github.com/kmasadeh1">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=kmasadeh1&theme=dracula" alt="WakaTime Stats" />
+</a>
+
+<br/>
+<br/>
 
 <a href="https://github.com/kmasadeh1">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kmasadeh1&layout=compact&theme=dracula" alt="Top Languages" />
@@ -167,6 +211,6 @@ Status: Secure. All systems compliant with JNCSF.
 
 </div>
 
-</div>
+``
 
-<!-- S0hNfUNPTkJSQVRVTEFUSU9OU19ZT1VfRk9VTkRfVEhFX0ZMQUch -->
+</div>
