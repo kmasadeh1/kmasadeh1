@@ -51,7 +51,7 @@ Cybersecurity Professional and JUST student bridging the gap between Governance,
 ## 🎓 Education & Certifications
 ---
 
-- **B.S. in Cybersecurity & Software Engineering** — Jordan University of Science and Technology (JUST)
+- **B.S. in Cybersecurity** — Jordan University of Science and Technology (JUST)
 - **Google Cybersecurity Professional Certificate**
 - **CCNA: Introduction to Networks**
 
