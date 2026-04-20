@@ -9,7 +9,7 @@
  ╚═╝  ╚═╝╚═╝     ╚═╝       ╚══════╝╚══════╝ ╚═════╝
 </pre>
 
-<img src="intro1.gif" width="100%" alt="Hero Header" />
+<h1>Kareem Masadeh</h1>
 
 ---
 
@@ -43,13 +43,6 @@
 <br/>
 <br/>
 
-<!-- GitHub Trophies -->
-<a href="https://github.com/kmasadeh1">
-  <img src="https://github-profile-trophy.vercel.app/?username=kmasadeh1&theme=dracula&no-frame=true&column=7" alt="GitHub Trophies" />
-</a>
-
-<br/>
-<br/>
 
 ## 👨‍💻 About Me
 ---
@@ -63,13 +56,7 @@ Cybersecurity Professional and JUST student applying offensive security tactics 
 ## ⚔️ The Arsenal
 ---
 
-<div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,python,bash,postgres,supabase" alt="Core Tech Stack" />
-  </a>
-</div>
 
-<br/>
 
 | 🛡️ Security Operations | ⚖️ GRC & Compliance | 💾 Database & Infrastructure |
 | :--- | :--- | :--- |
