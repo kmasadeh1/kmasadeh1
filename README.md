@@ -43,11 +43,20 @@
 <br/>
 <br/>
 
+<!-- GitHub Trophies -->
+<a href="https://github.com/kmasadeh1">
+  <img src="https://github-profile-trophy.vercel.app/?username=kmasadeh1&theme=dracula&no-frame=true&column=7" alt="GitHub Trophies" />
+</a>
+
+<br/>
+<br/>
 
 ## 👨‍💻 About Me
 ---
 
 Cybersecurity Professional and JUST student applying offensive security tactics and GRC frameworks to secure robust IT infrastructures, bridging the gap between academic theory and active Threat Management.
+
+> 🚀 **Current Sprint:** Currently executing a 60-day sprint for **eJPT** and **Web App Pentesting**.
 
 <br/>
 
@@ -84,9 +93,23 @@ Cybersecurity Professional and JUST student applying offensive security tactics 
 ## 🚀 Project Showroom
 ---
 
+<div align="left">
+
 - **FortiGRC:** Full-stack GRC system mapped to JNCSF; features robust 2FA and SQLi/XSS mitigation strategies deployed natively.
+  <br>
+  <img src="https://img.shields.io/badge/Framework-JNCSF-blue?style=flat-square" alt="Framework JNCSF"> <img src="https://img.shields.io/badge/Status-v1.0--Beta-orange?style=flat-square" alt="Status v1.0-Beta"> <img src="https://img.shields.io/badge/Security-2FA--Enabled-brightgreen?style=flat-square" alt="Security 2FA-Enabled">
+
+<br>
+
 - **Syncor Tech:** Security architecture implementation for a multi-tenant SaaS platform; leveraging hardened Node.js APIs to enforce strict access.
+  <br>
+  <img src="https://img.shields.io/badge/Architecture-Multi--tenant-purple?style=flat-square" alt="Architecture Multi-tenant"> <img src="https://img.shields.io/badge/Security-Hardened-red?style=flat-square" alt="Security Hardened"> <img src="https://img.shields.io/badge/Backend-Secure_APIs-yellow?style=flat-square" alt="Backend Secure APIs">
+
+<br>
+
 - **Malware Forensics:** Detailed digital forensics operations featuring disk imaging and the active deployment of custom YARA rules for threat modeling.
+
+</div>
 
 <br/>
 
@@ -97,7 +120,7 @@ Cybersecurity Professional and JUST student applying offensive security tactics 
 
 <br/>
 
-## 📊 Real-Time Coding Stats (Dracula Theme)
+## 📊 Real-Time Coding Stats & Activity
 ---
 
 <a href="https://github.com/kmasadeh1">
@@ -105,6 +128,13 @@ Cybersecurity Professional and JUST student applying offensive security tactics 
 </a>
 <a href="https://github.com/kmasadeh1">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kmasadeh1&theme=dracula" alt="GitHub Streak" />
+</a>
+
+<br/>
+<br/>
+
+<a href="https://github.com/kmasadeh1">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kmasadeh1&theme=tokyonight" alt="GitHub Activity Graph" width="100%" />
 </a>
 
 <br/>
@@ -138,3 +168,5 @@ Status: Secure. All systems compliant with JNCSF.
 </div>
 
 </div>
+
+<!-- S0hNfUNPTkJSQVRVTEFUSU9OU19ZT1VfRk9VTkRfVEhFX0ZMQUch -->
