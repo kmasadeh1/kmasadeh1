@@ -1,5 +1,14 @@
 <div align="center">
 
+<pre>
+ ██╗  ██╗███╗   ███╗       ███████╗███████╗ ██████╗ 
+ ██║ ██╔╝████╗ ████║       ██╔════╝██╔════╝██╔════╝ 
+ █████╔╝ ██╔████╔██║ █████╗███████╗█████╗  ██║      
+ ██╔═██╗ ██║╚██╔╝██║ ╚════╝╚════██║██╔══╝  ██║      
+ ██║  ██╗██║ ╚═╝ ██║       ███████║███████╗╚██████╗ 
+ ╚═╝  ╚═╝╚═╝     ╚═╝       ╚══════╝╚══════╝ ╚═════╝
+</pre>
+
 <img src="intro1.gif" width="100%" alt="Hero Header" />
 
 ---
@@ -26,57 +35,82 @@
 <br/>
 <br/>
 
+<!-- Visitor Counter -->
 <a href="https://github.com/kmasadeh1">
-  <img src="https://komarev.com/ghpvc/?username=kmasadeh1&color=blueviolet&style=flat-square" alt="Visitor Counter" />
+  <img src="https://komarev.com/ghpvc/?username=kmasadeh1&color=blue&style=flat-square&label=SYSTEM+VISITORS" alt="Visitor Counter" />
 </a>
 
 <br/>
 <br/>
 
+<!-- GitHub Trophies -->
+<a href="https://github.com/kmasadeh1">
+  <img src="https://github-profile-trophy.vercel.app/?username=kmasadeh1&theme=dracula&no-frame=true&column=7" alt="GitHub Trophies" />
+</a>
 
+<br/>
+<br/>
 
 ## 👨‍💻 About Me
 ---
 
-Cybersecurity Professional and JUST student bridging the gap between Governance, Risk, and Compliance (GRC) and active Threat Management. 
+Cybersecurity Professional and JUST student bridging the gap between Governance, Risk, and Compliance (GRC) and active Threat Management.
+
+<br/>
 
 ## ⚔️ The Arsenal
 ---
 
-| 🛡️ Security | 💻 Development | 🧠 Emerging |
+| 🔴 Red Team (Offense) | 🔵 Blue Team (Defense/GRC) | 🛠️ Security Dev |
 | :--- | :--- | :--- |
-| 🐉 Kali Linux<br>🦈 Wireshark<br>👁️ Nmap<br>🎯 Penetration Testing<br>📋 GRC (Advanced)<br>🏛️ JNCSF (Advanced) | ⚛️ React.js<br>🟢 Node.js<br>🐘 PostgreSQL<br>⚡ Supabase<br>📦 Git | 🤖 AI Security<br>☁️ Cloud Security Operations |
+| 🐉 Kali Linux (Advanced)<br>👁️ Nmap<br>🎯 Penetration Testing<br>🏴‍☠️ TryHackMe | 📋 JNCSF (Advanced)<br>🛡️ GRC Strategy (Advanced)<br>🦈 Wireshark<br>🔬 Malware Analysis | 🟢 Node.js<br>🐘 PostgreSQL<br>⚡ Supabase<br>⚛️ React.js |
 
+<br/>
+
+## 🏅 Certification Gallery & TryHackMe
+---
+
+<a href="https://tryhackme.com/p/kmasadeh1">
+  <img src="https://tryhackme-badges.s3.amazonaws.com/kmasadeh1.png" alt="TryHackMe" />
+</a>
+
+<br/>
+<br/>
+
+<a href="#">
+  <img src="https://img.shields.io/badge/Google-Cybersecurity_Professional_Certificate-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Cybersecurity Certificate" />
+</a>
+<a href="#">
+  <img src="https://img.shields.io/badge/Cisco_CCNA-Introduction_to_Networks-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="CCNA Certificate" />
+</a>
+
+<br/>
 <br/>
 
 ## 🚀 Project Showroom
 ---
 
-- **FortiGRC:** Full-stack GRC system mapped to JNCSF; features 2FA and SQLi/XSS mitigation.
-- **Syncor Tech:** Security architecture for a multi-tenant SaaS platform; hardened Node.js APIs.
-- **Malware Analysis:** Digital forensics, disk imaging, and custom YARA rule deployment.
-- **TryHackMe & CTF:** Exploiting authentication flaws and securing Kali environments.
-
-## 🎓 Education & Certifications
----
-
-- **B.S. in Cybersecurity** — Jordan University of Science and Technology (JUST)
-- **Google Cybersecurity Professional Certificate**
-- **CCNA: Introduction to Networks**
+- **FortiGRC:** Full-stack GRC system mapped to JNCSF; features robust 2FA and SQLi/XSS mitigation strategies deployed natively.
+- **Syncor Tech:** Security architecture implementation for a multi-tenant SaaS platform; leveraging hardened Node.js APIs to enforce strict access.
+- **Malware Forensics:** Detailed digital forensics operations featuring disk imaging and the active deployment of custom YARA rules for threat modeling.
 
 <br/>
 
-## 📊 GitHub Stats
+## 🎓 Education
+---
+
+- **B.S. in Cybersecurity** — Jordan University of Science and Technology (JUST)
+
+<br/>
+
+## 📊 Real-Time Coding Stats (Dracula Theme)
 ---
 
 <a href="https://github.com/kmasadeh1">
-  <img src="https://github-readme-stats.vercel.app/api?username=kmasadeh1&show_icons=true&theme=nord&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kmasadeh1&layout=compact&theme=dracula" alt="Top Languages" />
 </a>
 <a href="https://github.com/kmasadeh1">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kmasadeh1&layout=compact&theme=nord&hide_border=true" alt="Top Languages" />
-</a>
-<a href="https://github.com/kmasadeh1">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kmasadeh1&theme=nord&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kmasadeh1&theme=dracula" alt="GitHub Streak" />
 </a>
 
 <br/>
@@ -86,5 +120,27 @@ Cybersecurity Professional and JUST student bridging the gap between Governance,
 ---
 
 <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/kmasadeh1/kmasadeh1/output/github-contribution-grid-snake.svg" width="100%">
+
+<br/>
+<br/>
+
+## 🧬 Live Scan Simulation
+---
+
+<div align="left">
+
+```bash
+$ nmap -sV kmasadeh1.profile
+Starting Nmap 7.92...
+PORT     STATE  SERVICE
+22/tcp   open   ssh (B.S. Cybersecurity @ JUST)
+80/tcp   open   http (Project: FortiGRC)
+443/tcp  open   https (Syncor Tech Secure Architecture)
+Status: Secure. All systems compliant with JNCSF.
+```
+
+> *"Security is a process, not a product." — Bruce Schneier*
+
+</div>
 
 </div>
