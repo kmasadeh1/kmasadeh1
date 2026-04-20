@@ -33,12 +33,7 @@
 <br/>
 <br/>
 
-<a href="https://github.com/kmasadeh1">
-  <img src="https://github-profile-trophy.vercel.app/?username=kmasadeh1&theme=dracula&no-frame=true" alt="GitHub Trophies" />
-</a>
 
-<br/>
-<br/>
 
 ## 👨‍💻 About Me
 ---
