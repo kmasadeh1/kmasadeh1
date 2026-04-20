@@ -47,16 +47,24 @@
 ## 👨‍💻 About Me
 ---
 
-Cybersecurity Professional and JUST student bridging the gap between Governance, Risk, and Compliance (GRC) and active Threat Management.
+Cybersecurity Professional and JUST student applying offensive security tactics and GRC frameworks to secure robust IT infrastructures, bridging the gap between academic theory and active Threat Management.
 
 <br/>
 
 ## ⚔️ The Arsenal
 ---
 
-| 🔴 Red Team (Offense) | 🔵 Blue Team (Defense/GRC) | 🛠️ Security Dev |
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=linux,python,bash,postgres,supabase" alt="Core Tech Stack" />
+  </a>
+</div>
+
+<br/>
+
+| 🛡️ Security Operations | ⚖️ GRC & Compliance | 💾 Database & Infrastructure |
 | :--- | :--- | :--- |
-| 🐉 Kali Linux (Advanced)<br>👁️ Nmap<br>🎯 Penetration Testing<br>🏴‍☠️ TryHackMe | 📋 JNCSF (Advanced)<br>🛡️ GRC Strategy (Advanced)<br>🦈 Wireshark<br>🔬 Malware Analysis | 🟢 Node.js<br>🐘 PostgreSQL<br>⚡ Supabase<br>⚛️ React.js |
+| 🐉 Kali Linux<br>👁️ Nmap<br>🦈 Wireshark<br>🌐 CCNA | 📋 JNCSF<br>🛡️ GRC Strategy<br>🔬 Threat Management | 🐘 PostgreSQL<br>⚡ Supabase<br>📦 Git/GitHub<br>🐍 Python & Bash |
 
 <br/>
 
