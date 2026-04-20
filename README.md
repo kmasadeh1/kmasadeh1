@@ -6,7 +6,7 @@
 <br/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Cybersecurity+%26+Software+Engineering+Student;AI+%26+Cloud+Security+Specialist;Offensive+Security+%26+Ethical+Hacking;GRC+(JNCSF);Full-Stack+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Cybersecurity+Specialist;Security+Researcher;AI+%26+Cloud+Security;Offensive+Security;GRC+(JNCSF)" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -27,7 +27,7 @@
 
 ## 👨‍💻 About Me
 
-I am a Cybersecurity and Software Engineering student at Jordan University of Science and Technology (JUST). I specialize in AI Security, Cloud Security, and Governance, Risk, and Compliance (GRC). As an active CTF player and full-stack developer, I combine offensive security techniques with robust software engineering practices. I am particularly focused on the Jordanian National Cybersecurity Framework (JNCSF), leading major projects like **FortiGRC** (a management system designed for JNCSF regulatory controls) and **Viola Academy** (a multi-role secure school management portal).
+I am a Cybersecurity Specialist and Security Researcher studying at Jordan University of Science and Technology (JUST). I specialize in AI Security, Cloud Security, and Governance, Risk, and Compliance (GRC). As an active CTF player, I dedicate my focus to offensive security techniques and vulnerability analysis. I am highly focused on the Jordanian National Cybersecurity Framework (JNCSF) and implementing advanced security controls for robust organizational resilience.
 
 ## 🛡️ Core Interests
 
@@ -44,18 +44,19 @@ I am a Cybersecurity and Software Engineering student at Jordan University of Sc
 ## 🛠️ Tech Stack & Tools
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=linux,kali,nodejs,mysql,react,git" alt="Tech Stack Icons" />
+  <img src="https://skillicons.dev/icons?i=linux,kali,docker,python,bash,git,nginx" alt="Tech Stack Icons" />
 </a>
+
+<br/>
+<br/>
+
+**Security Suite:** Metasploit, Nmap, Burp Suite, OWASP ZAP
 
 <br/>
 <br/>
 
 ## 🐍 GitHub Contributions
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kmasadeh1/kmasadeh1/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kmasadeh1/kmasadeh1/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/kmasadeh1/kmasadeh1/output/github-contribution-grid-snake.svg" width="100%">
-</picture>
+<img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/kmasadeh1/kmasadeh1/output/github-contribution-grid-snake.svg" width="100%">
 
 </div>
