@@ -1,14 +1,5 @@
 <div align="center">
 
-<pre>
- ██╗  ██╗███╗   ███╗       ███████╗███████╗ ██████╗ 
- ██║ ██╔╝████╗ ████║       ██╔════╝██╔════╝██╔════╝ 
- █████╔╝ ██╔████╔██║ █████╗███████╗█████╗  ██║      
- ██╔═██╗ ██║╚██╔╝██║ ╚════╝╚════██║██╔══╝  ██║      
- ██║  ██╗██║ ╚═╝ ██║       ███████║███████╗╚██████╗ 
- ╚═╝  ╚═╝╚═╝     ╚═╝       ╚══════╝╚══════╝ ╚═════╝
-</pre>
-
 <img src="intro1.gif" width="100%" alt="Hero Header" />
 
 ---
@@ -31,17 +22,19 @@
 <a href="mailto:masadehkareem29@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
 </a>
+
 <br/>
 <br/>
+
 <a href="https://github.com/kmasadeh1">
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkmasadeh1&count_bg=%23000000&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Visitor+Profile+Scans&edge_flat=true" alt="Visitor Counter" />
+  <img src="https://komarev.com/ghpvc/?username=kmasadeh1&color=blueviolet&style=flat-square" alt="Visitor Counter" />
 </a>
 
 <br/>
 <br/>
 
 <a href="https://github.com/kmasadeh1">
-  <img src="https://github-profile-trophy.vercel.app/?username=kmasadeh1&theme=nord&no-frame=true&no-bg=true" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=kmasadeh1&theme=dracula&no-frame=true" alt="GitHub Trophies" />
 </a>
 
 <br/>
@@ -50,32 +43,7 @@
 ## 👨‍💻 About Me
 ---
 
-Cybersecurity Professional and JUST student bridging the gap between Governance, Risk, and Compliance (GRC) and active Threat Management. I am actively executing an intensive certification sprint to solidify my technical expertise in identifying vulnerabilities and developing robust defensive measures.
-
-## 📈 Skill Proficiency
----
-
-<div align="left">
-
-**GRC & JNCSF (Advanced - 95%)**
-<br>
-<code>███████████████████░</code>
-
-**Kali Linux (Advanced - 90%)**
-<br>
-<code>██████████████████░░</code>
-
-**Penetration Testing (Intermediate - 75%)**
-<br>
-<code>███████████████░░░░░</code>
-
-**Wireshark & Nmap (Intermediate - 70%)**
-<br>
-<code>██████████████░░░░░░</code>
-
-</div>
-
-<br/>
+Cybersecurity Professional and JUST student bridging the gap between Governance, Risk, and Compliance (GRC) and active Threat Management. 
 
 ## ⚔️ The Arsenal
 ---
@@ -123,25 +91,5 @@ Cybersecurity Professional and JUST student bridging the gap between Governance,
 ---
 
 <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/kmasadeh1/kmasadeh1/output/github-contribution-grid-snake.svg" width="100%">
-
-<br/>
-<br/>
-
-## 🧬 Live Scan Simulation
----
-
-<div align="left">
-
-```bash
-$ nmap -sV kmasadeh1.profile
-Starting Nmap 7.92...
-PORT     STATE  SERVICE
-22/tcp   open   ssh (B.S. Cybersecurity @ JUST)
-80/tcp   open   http (Project: FortiGRC)
-443/tcp  open   https (Syncor Tech Secure Architecture)
-Status: Secure. All systems compliant with JNCSF.
-```
-
-</div>
 
 </div>
